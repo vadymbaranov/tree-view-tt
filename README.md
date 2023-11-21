@@ -1,8 +1,14 @@
-# React + Vite
+# Tree View
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[DEMO]()
 
-Currently, two official plugins are available:
+#### This project uses Node v.18.16.0
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To run this project locally:
+
+- fork this repository
+- clone your forked repository to your local machine
+- navigate to folder with cloned repo
+- open terminal 
+- run: npm i npm run dev
+
