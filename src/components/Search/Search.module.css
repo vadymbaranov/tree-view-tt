@@ -1,0 +1,9 @@
+.SearchBar {
+    margin-bottom: 1em;
+}
+
+.SearchBar_input {
+    width: 100%;
+    padding: 0.5em;
+    border-radius: 4px;
+}

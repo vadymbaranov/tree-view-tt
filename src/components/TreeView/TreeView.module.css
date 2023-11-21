@@ -1,0 +1,12 @@
+.tree_users {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.tree_item {
+  margin-bottom: 10px;
+}

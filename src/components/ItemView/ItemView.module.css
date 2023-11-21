@@ -1,0 +1,12 @@
+.item {
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+.itemActive {
+    color: turquoise;
+}
+
+.itemMarginShift {
+    margin-left: 20px;
+}
